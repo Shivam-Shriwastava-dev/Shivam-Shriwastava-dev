@@ -1,3 +1,5 @@
+![logo](https://github.com/Shivam-Shriwastava-dev/Shivam-Shriwastava-dev/blob/main/GITHUB%20BANNER.png)
+<!--ABOUT ME-->
 # Hey, 👋 I'm Shivam Shriwastava:
  👨‍💻 A passionate Computer Science student and Full Stack Developer.<br><br>🔧 I build dynamic web apps using **React.js, Node.js, Express.js, MongoDB**, and love writing clean & efficient code.<br><br>💻 Skilled in **Java and DSA**, with a strong focus on logic and performance.<br><br>🚀 Constantly building real-world projects and crafting meaningful user experiences.<br><br>🧠 I enjoy blending logic with creativity to create scalable, user-friendly solutions.<br><br>📄 Published research:  <br>🤖"AI Financial Advisor Chatbot – Scalable & Personalized Financial Guidance as a Service"🤖<br>→ focuses on using AI to enhance personal finance decision-making.<br>   → (https://www.erpublications.com/uploaded_files/download/s-goswami-h-singh-s-shriwastava-s-bhowmik-dr-d-misra-prof-dr-s-nandi_NCcHs.pdf)
 
